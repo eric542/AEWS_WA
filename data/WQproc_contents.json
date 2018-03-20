@@ -1,0 +1,156 @@
+[
+    {
+        "DisplayName": "Mundaring_Weir", 
+        "Name": "Mundaring_Weir", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2017-12-20", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Mundaring_Weir.nc"
+    }, 
+    {
+        "DisplayName": "Swan_River", 
+        "Name": "Swan_River", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2018-01-29", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Swan_River.nc"
+    }, 
+    {
+        "DisplayName": "Goegrup_Blake_lake", 
+        "Name": "Goegrup_Blake_lake", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2018-01-29", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Goegrup_Blake_lake.nc"
+    }, 
+    {
+        "DisplayName": "Peel_Inlet", 
+        "Name": "Peel_Inlet", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2018-01-29", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Peel_Inlet.nc"
+    }, 
+    {
+        "DisplayName": "Lake_Banksiadale", 
+        "Name": "Lake_Banksiadale", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2017-12-28", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Lake_Banksiadale.nc"
+    }, 
+    {
+        "DisplayName": "Serpentine_Dam", 
+        "Name": "Serpentine_Dam", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2017-12-20", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Serpentine_Dam.nc"
+    }, 
+    {
+        "DisplayName": "Wungong_Reservoir", 
+        "Name": "Wungong_Reservoir", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2018-01-29", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Wungong_Reservoir.nc"
+    }, 
+    {
+        "DisplayName": "Canning_Reservoir", 
+        "Name": "Canning_Reservoir", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2018-01-13", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Canning_Reservoir.nc"
+    }, 
+    {
+        "DisplayName": "Guraga_Lake", 
+        "Name": "Guraga_Lake", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2017-12-27", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-13", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Guraga_Lake.nc"
+    }, 
+    {
+        "DisplayName": "Lake_Joondalup", 
+        "Name": "Lake_Joondalup", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2018-01-29", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Lake_Joondalup.nc"
+    }, 
+    {
+        "DisplayName": "Lake_Jandabup", 
+        "Name": "Lake_Jandabup", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2017-09-06", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Lake_Jandabup.nc"
+    }, 
+    {
+        "DisplayName": "Lake_Gnangara", 
+        "Name": "Lake_Gnangara", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2017-12-20", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Lake_Gnangara.nc"
+    }, 
+    {
+        "DisplayName": "Harris_River_Dam", 
+        "Name": "Harris_River_Dam", 
+        "LastGARFlag": null, 
+        "HasNetCDF": false, 
+        "NetCDFLastDate": null, 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": null
+    }, 
+    {
+        "DisplayName": "Wellington_Dam", 
+        "Name": "Wellington_Dam", 
+        "LastGARFlag": "undefined", 
+        "HasNetCDF": true, 
+        "NetCDFLastDate": "2017-12-20", 
+        "Processed": true, 
+        "UserEndDate": "2018-03-20", 
+        "LastProcDate": "2018-02-22", 
+        "NetCDFFileName": "/g/data1/jr4/AEWS_WA_vis_data_v1.1/Wellington_Dam.nc"
+    }
+]
